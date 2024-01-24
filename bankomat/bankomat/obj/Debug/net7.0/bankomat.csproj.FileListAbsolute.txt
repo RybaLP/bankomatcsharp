@@ -1,0 +1,17 @@
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.csproj.AssemblyReference.cache
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.AssemblyInfoInputs.cache
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.AssemblyInfo.cs
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.csproj.CoreCompileInputs.cache
+C:\bankomat\bankomat\bankomat\bin\Debug\net7.0\bankomat.exe
+C:\bankomat\bankomat\bankomat\bin\Debug\net7.0\bankomat.deps.json
+C:\bankomat\bankomat\bankomat\bin\Debug\net7.0\bankomat.runtimeconfig.json
+C:\bankomat\bankomat\bankomat\bin\Debug\net7.0\bankomat.dll
+C:\bankomat\bankomat\bankomat\bin\Debug\net7.0\bankomat.pdb
+C:\bankomat\bankomat\bankomat\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.csproj.CopyComplete
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.dll
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\refint\bankomat.dll
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.pdb
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\bankomat.genruntimeconfig.cache
+C:\bankomat\bankomat\bankomat\obj\Debug\net7.0\ref\bankomat.dll

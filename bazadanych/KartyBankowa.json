@@ -1,0 +1,14 @@
+[
+    {
+      "ImieWlasciciela": "Adam",
+      "NazwiskoWlasciciela": "Nowacki",
+      "Pin": 6969,
+      "Saldo": 100000,
+      "NazwaKarty": "Visa",
+      "TypKarty": "KartaBiznesowa",
+      "LimitWplaty": 100,
+      "LimitWyplaty": 100
+    }
+    
+  ]
+  

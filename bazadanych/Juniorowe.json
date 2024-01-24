@@ -1,0 +1,62 @@
+[
+  {
+    "LimitWyplaty": 200.0,
+    "LimitWplaty": 150.0,
+    "ImieWlasciciela": "Anna",
+    "NazwiskoWlasciciela": "Kowalska",
+    "Pin": 1134,
+    "Saldo": 75000.0,
+    "NazwaKarty": "MasterCard",
+    "TypKarty": "KartaJunior"
+  },
+  {
+    "LimitWyplaty": 300.0,
+    "LimitWplaty": 200.0,
+    "ImieWlasciciela": "Michał",
+    "NazwiskoWlasciciela": "Nowak",
+    "Pin": 9276,
+    "Saldo": 120000.0,
+    "NazwaKarty": "American Express",
+    "TypKarty": "KartaJunior"
+  },
+  {
+    "LimitWyplaty": 150.0,
+    "LimitWplaty": 100.0,
+    "ImieWlasciciela": "Karolina",
+    "NazwiskoWlasciciela": "Wisniewska",
+    "Pin": 4111,
+    "Saldo": 49860.0,
+    "NazwaKarty": "Visa",
+    "TypKarty": "KartaJunior"
+  },
+  {
+    "LimitWyplaty": 100.0,
+    "LimitWplaty": 150.0,
+    "ImieWlasciciela": "Jarek",
+    "NazwiskoWlasciciela": "Elozelo",
+    "Pin": 1240,
+    "Saldo": 75000.0,
+    "NazwaKarty": "MasterCard",
+    "TypKarty": "KartaJunior"
+  },
+  {
+    "LimitWyplaty": 150.0,
+    "LimitWplaty": 100.0,
+    "ImieWlasciciela": "Karolina",
+    "NazwiskoWlasciciela": "Wisniewska",
+    "Pin": 2023,
+    "Saldo": 49860.0,
+    "NazwaKarty": "chujcard",
+    "TypKarty": "KartaJunior"
+  },
+  {
+    "LimitWyplaty": 200.0,
+    "LimitWplaty": 150.0,
+    "ImieWlasciciela": "Anna",
+    "NazwiskoWlasciciela": "Kowalska",
+    "Pin": 2134,
+    "Saldo": 75020.0,
+    "NazwaKarty": "MasterCard",
+    "TypKarty": "KartaJunior"
+  }
+]

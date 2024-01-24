@@ -1,0 +1,74 @@
+[
+  {
+    "LimitKredytowy": 1000.0,
+    "ImieWlasciciela": "Filip",
+    "NazwiskoWlasciciela": "Mazowiecki",
+    "Pin": 2232,
+    "Saldo": 75000.0,
+    "NazwaKarty": "MasterCard",
+    "TypKarty": "KartaStandardowa"
+  },
+  {
+    "LimitKredytowy": 3000.0,
+    "ImieWlasciciela": "Jan",
+    "NazwiskoWlasciciela": "Kowalski",
+    "Pin": 9716,
+    "Saldo": 50000.0,
+    "NazwaKarty": "American Express",
+    "TypKarty": "KartaZlotowa"
+  },
+  {
+    "LimitKredytowy": 0.0,
+    "ImieWlasciciela": "Piotr",
+    "NazwiskoWlasciciela": "Lis",
+    "Pin": 2290,
+    "Saldo": 60000.0,
+    "NazwaKarty": "Maestro",
+    "TypKarty": "KartaDebetowa"
+  },
+  {
+    "LimitKredytowy": 0.0,
+    "ImieWlasciciela": "Piotr",
+    "NazwiskoWlasciciela": "Lis",
+    "Pin": 1290,
+    "Saldo": 60000.0,
+    "NazwaKarty": "Maestro",
+    "TypKarty": "KartaDebetowa"
+  },
+  {
+    "LimitKredytowy": 1500.0,
+    "ImieWlasciciela": "Magdalena",
+    "NazwiskoWlasciciela": "Wójcik",
+    "Pin": 7771,
+    "Saldo": 89830.0,
+    "NazwaKarty": "Discover",
+    "TypKarty": "KartaBiznesowa"
+  },
+  {
+    "LimitKredytowy": 1500.0,
+    "ImieWlasciciela": "Bojack",
+    "NazwiskoWlasciciela": "Horseman",
+    "Pin": 1771,
+    "Saldo": 7689830.0,
+    "NazwaKarty": "Visa",
+    "TypKarty": "KartaBiznesowa"
+  },
+  {
+    "LimitKredytowy": 5500.0,
+    "ImieWlasciciela": "Gaunter",
+    "NazwiskoWlasciciela": "Odim",
+    "Pin": 4772,
+    "Saldo": 79689830.0,
+    "NazwaKarty": "Visa",
+    "TypKarty": "KartaKredytowa"
+  },
+  {
+    "LimitKredytowy": 5500.0,
+    "ImieWlasciciela": "Geralt",
+    "NazwiskoWlasciciela": "Rivijski",
+    "Pin": 2714,
+    "Saldo": 989830.0,
+    "NazwaKarty": "Visa",
+    "TypKarty": "KartaKredytowa"
+  }
+]

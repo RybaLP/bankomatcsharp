@@ -1,0 +1,74 @@
+[
+  {
+    "Odblokowana": true,
+    "ImieWlasciciela": "Anna",
+    "NazwiskoWlasciciela": "Kowalska",
+    "Pin": 1114,
+    "Saldo": 75000.0,
+    "NazwaKarty": "MasterCard",
+    "TypKarty": "KartaStandardowa"
+  },
+  {
+    "Odblokowana": false,
+    "ImieWlasciciela": "Michal",
+    "NazwiskoWlasciciela": "Nowak",
+    "Pin": 9116,
+    "Saldo": 120000.0,
+    "NazwaKarty": "American Express",
+    "TypKarty": "KartaPremium"
+  },
+  {
+    "Odblokowana": false,
+    "ImieWlasciciela": "Karolina",
+    "NazwiskoWlasciciela": "Wisniewska",
+    "Pin": 4121,
+    "Saldo": 50000.0,
+    "NazwaKarty": "Visa",
+    "TypKarty": "KartaJunior"
+  },
+  {
+    "Odblokowana": false,
+    "ImieWlasciciela": "Magdalena",
+    "NazwiskoWlasciciela": "Dabrowska",
+    "Pin": 7220,
+    "Saldo": 60000.0,
+    "NazwaKarty": "Diners Club",
+    "TypKarty": "KartaPlatinum"
+  },
+  {
+    "Odblokowana": true,
+    "ImieWlasciciela": "Piotr",
+    "NazwiskoWlasciciela": "Zawadzki",
+    "Pin": 7747,
+    "Saldo": 316640.0,
+    "NazwaKarty": "Discover",
+    "TypKarty": "KartaGold"
+  },
+  {
+    "Odblokowana": false,
+    "ImieWlasciciela": "Marcin",
+    "NazwiskoWlasciciela": "Ziemba",
+    "Pin": 1297,
+    "Saldo": 316640.0,
+    "NazwaKarty": "Deltoid",
+    "TypKarty": "KartaGold"
+  },
+  {
+    "Odblokowana": true,
+    "ImieWlasciciela": "Jacek",
+    "NazwiskoWlasciciela": "Placek",
+    "Pin": 9749,
+    "Saldo": 316640.0,
+    "NazwaKarty": "Discover",
+    "TypKarty": "KartaGold"
+  },
+  {
+    "Odblokowana": true,
+    "ImieWlasciciela": "Todd",
+    "NazwiskoWlasciciela": "Chabez",
+    "Pin": 3241,
+    "Saldo": 316640.0,
+    "NazwaKarty": "Discover",
+    "TypKarty": "KartaGold"
+  }
+]

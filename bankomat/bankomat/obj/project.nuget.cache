@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnYMgc6ArI6+cdduJTm+au6gA2vs6oVfdA8D2Qt3rrL7N/4LeTA9FiIgXlv/gKHmNYKExONHxk7t89tdMVOe7Q==",
+  "success": true,
+  "projectFilePath": "C:\\bankomat\\bankomat\\bankomat\\bankomat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
